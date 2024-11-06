@@ -2,18 +2,18 @@
 キューブマップを使ってみましょう
 
 ## 結果画像
-![結果画像1](result1.jpg)
+![結果画像1](myresult1.png)
 
-![結果画像2](result2.gif)
+![結果画像2](myresult2.gif)
 
-![結果画像3](result3.gif)
+![結果画像3](myresult3.gif)
 
-![結果画像4](result4.gif)
+![結果画像4](myresult4.gif)
 
 ## 自分なりにかっこいいシーン
 ![結果画像](result.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](My_node_graph.png)
 
 # 自分なりに変更した点
 -
